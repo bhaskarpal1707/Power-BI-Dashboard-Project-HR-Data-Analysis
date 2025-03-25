@@ -1,5 +1,5 @@
 # 🚀 **Power BI Dashboard Project | HR Data Analysis**
-![Dashboard Preview] [image](https://github.com/user-attachments/assets/38be8eb3-27f0-4221-b443-449a058286ca) 
+![Dashboard Preview](https://github.com/user-attachments/assets/38be8eb3-27f0-4221-b443-449a058286ca) 
 
 
 ## 🛠️ **Project Overview**
